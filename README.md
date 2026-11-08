@@ -15,7 +15,7 @@
 
 ### Now
 
-- **CTO, [Aftermarket.com](https://aftermarket.com)**. I lead **[Falcon](https://falcon.how)**, an AI agent studio in private pilot, and rebuilt the domain marketplace on AWS in a few months: 50K parked domains serving 1.5M pages, up through several DDoS attacks.
+- **CTO, [Aftermarket.com](https://aftermarket.com)**. I lead **[Falcon](https://falcon.how)**, an AI agent studio in private pilot, and rebuilt the domain archecture on AWS/Cloudflare in a few months: 50K parked domains serving 1.5M pages, up through several DDoS attacks.
 - **Founder, [Labs Kai](https://labskai.com)**. AI products and small, fast open source.
 
 Before that: Chief Architect & Development Manager at ACCESS Newswire (led 6 engineers through a post-acquisition PHP/C# integration, built a reverse-lookup + RAG classifier that tagged millions of media records to IPTC Media Topics with no LLM call per item), and Senior Software Engineer at Ziff Media Group, on the enterprise Laravel CMS behind AskMen and Mashable.
