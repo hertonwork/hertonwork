@@ -6,8 +6,6 @@
 </p>
 
 <p align="center">
-  <a href="https://labskai.dev">labskai.dev</a> ·
-  <a href="https://labskai.dev/work/">Case studies</a> ·
   <a href="https://www.linkedin.com/in/herton">LinkedIn</a> ·
   <a href="https://herton.aiff.dev/hire-me">Hire me</a> ·
   <a href="https://github.com/LabskAI">@LabskAI</a>
@@ -18,7 +16,7 @@
 ### Now
 
 - **CTO, [Aftermarket.com](https://aftermarket.com)** (since Mar 2025). I lead **[Falcon](https://falcon.how)**, an AI agent studio in private pilot, and rebuilt the domain marketplace on AWS in a few months: 50K parked domains serving 1.5M pages, up through several DDoS attacks.
-- **Founder, [Labs Kai](https://labskai.dev)**. AI products and small, fast open source.
+- **Founder, [Labs Kai](https://labskai.com)**. AI products and small, fast open source.
 
 Before that: Chief Architect & Development Manager at ACCESS Newswire (led 6 engineers through a post-acquisition PHP/C# integration, built a reverse-lookup + RAG classifier that tagged millions of media records to IPTC Media Topics with no LLM call per item), and Senior Software Engineer at Ziff Media Group, on the enterprise Laravel CMS behind AskMen and Mashable.
 
@@ -28,10 +26,6 @@ Before that: Chief Architect & Development Manager at ACCESS Newswire (led 6 eng
 | --- | --- |
 | **[Falcon](https://falcon.how)** | AI agent studio at Aftermarket.com (private pilot). Laravel integration: [falcon-skills-laravel](https://github.com/lead-com-dev/falcon-skills-laravel) |
 | **[Taxonomy Engine](https://api.labskai.dev)** | REST + MCP classifier to IPTC Media Topics in 4 languages: pgvector search, fine-tuned small-model reranker, confidence scores, editor routing, eval harness |
-| **[ShopMade](https://shopmade.pro)** | Website and back office for home-service shops: site, jobs, quotes, invoices, CRM, client portal. MIT core: [shopmade-core](https://github.com/LabskAI/shopmade-core) |
-| **[AIFormFlow](https://aiformflow.com)** | Conversational lead forms that send the lead to the owner's phone |
-| **[USbznes](https://usbznes.com)** | New US business filings, with shells removed (early access) |
-| **[Qtwo](https://qtwo.app)** | Chat for people and AI agents, with DNS-verified domain identity (early access) |
 
 ### Open source
 
