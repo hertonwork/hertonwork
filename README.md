@@ -7,7 +7,6 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/herton">LinkedIn</a> ·
-  <a href="https://herton.aiff.dev/hire-me">Hire me</a> ·
   <a href="https://github.com/LabskAI">@LabskAI</a>
 </p>
 
@@ -50,5 +49,3 @@ AI agents · Tool use · RAG · Evals · Embeddings · Reranking · MCP<br>
 AWS · Docker · Kubernetes · nginx · Linux<br>
 PHP · Laravel · Python · TypeScript · Node.js · C# · Vue.js<br>
 PostgreSQL · pgvector · MySQL
-
-<p align="center"><sub>Estero, FL · <a href="https://herton.aiff.dev/hire-me">get in touch</a></sub></p>
